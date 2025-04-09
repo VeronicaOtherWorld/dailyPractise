@@ -10,4 +10,5 @@
         <maven.compiler.release>23</maven.compiler.release>
         <exec.mainClass>com.dailypractise.DailyPractise</exec.mainClass>
     </properties>
+    <name>dailyPractise</name>
 </project>
